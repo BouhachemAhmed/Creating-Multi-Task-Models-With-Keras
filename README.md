@@ -19,4 +19,5 @@
  but want to understand how to use use Keras to write custom, more complex models than just plain sequential neural networks.
 </dir>
 
+![Coursera B2JB3MARF6ZU_page-0001](https://github.com/BouhachemAhmed/Creating-Multi-Task-Models-With-Keras/assets/61451186/a1e385f0-a36a-4b39-9c1b-db63db719996)
 
